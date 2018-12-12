@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43390457301",
+    "firebase_url": "https://tvtrivia-9d35d.firebaseio.com",
+    "project_id": "tvtrivia-9d35d",
+    "storage_bucket": "tvtrivia-9d35d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43390457301:android:6fde48b875f2e9cf",
+        "android_client_info": {
+          "package_name": "com.example.harikrishnan.task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43390457301-993p9c8tl06und4t2h87u6u5m4cl3aqs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harikrishnan.task1",
+            "certificate_hash": "14b38ebf7311c7702c4dc5ee82460f2097156259"
+          }
+        },
+        {
+          "client_id": "43390457301-oj8kdog1j8nbbbob96jkev78g82u1gm4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZxHkuVfPgXrxH40_lgPG1yCXXj5Dwges"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43390457301-oj8kdog1j8nbbbob96jkev78g82u1gm4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
